@@ -1,0 +1,3 @@
+sudo mount -t auto -o loop R2021b_Update_3_Linux.iso
+tar -zxvf ****.tar.gz  tar -jxvf ****.tar.bz(或bz2) 解压
+
